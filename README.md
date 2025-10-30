@@ -40,7 +40,7 @@ bashpip install -r requirements.txt
 3. Set Up Environment Variables
 Create a .env file in the same directory as your script:
 envSF_USERNAME=kunguma.balaji@aspect.co.uk.staging
-SF_PASSWORD=your_actual_password_here
+SF_PASSWORD= .env 
 DEFAULT_DIVISION=Homeowner
 Important: Replace your_actual_password_here with your actual Salesforce password.
 4. Prepare Your CSV Data File
